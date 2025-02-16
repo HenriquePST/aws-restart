@@ -33,7 +33,25 @@ cada módulo e sendo obrigatórios para a finalização do programa.
 ## Introdução à segurança
 
 - **282-[SF]-KC - Introdução à segurança** [🔗][KC/282]
+- **283-[SF]-KC - Ciclo de vida da segurança: Prevenção** [🔗][KC/283]  
+- **284-[SF]-KC - Reforço da rede** [🔗][KC/284]  
+- **288-[SF]-KC - Prevenção: Gerenciamento de identidades** [🔗][KC/288]  
+- **291-[SF]-KC - AWS CloudTrail** [🔗][KC/291]  
+- **292-[SF]-KC - AWS Config** [🔗][KC/292]  
+- **295-[SF]-KC - Trusted Advisor** [🔗][KC/295]  
+- **296-[SF]-KC - Práticas recomendadas de segurança para a criação de conta** [🔗][KC/296]  
+- **297-[SF]-KC - Programa de conformidade de segurança da AWS** [🔗][KC/297]  
+- **298-[SF]-KC - Recursos de segurança da AWS** [🔗][KC/298]  
 
 [KC/282]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/282.md
- 
+[KC/283]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/283.md
+[KC/284]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/284.md
+[KC/288]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/288.md
+[KC/291]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/291.md
+[KC/292]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/292.md
+[KC/295]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/295.md
+[KC/296]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/296.md
+[KC/297]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/297.md
+[KC/298]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/298.md 
+
 ---
