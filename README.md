@@ -37,15 +37,15 @@ cada módulo e sendo obrigatórios para a finalização do programa.
 - **284-[SF]-KC - Reforço da rede** [🔗][KC/284]  
 - **285-[SF]-KC - Reforço dos sistemas**  [🔗][KC/285] 
 - **286-[SF]-KC - Prevenção: Segurança de dados** [🔗][KC/286]
-- **287-[SF]-KC - Prevenção: PKI**  
-- **289-[SF]-KC - Prevenção: AWS IAM**  
-- **290-[SF]-KC - Ciclo de vida da segurança: Detecção**  
+- **287-[SF]-KC - Prevenção: PKI**  [🔗][KC/287] 
 - **288-[SF]-KC - Prevenção: Gerenciamento de identidades** [🔗][KC/288]  
+- **289-[SF]-KC - Prevenção: AWS IAM**  [🔗][KC/289] 
+- **290-[SF]-KC - Ciclo de vida da segurança: Detecção**  [🔗][KC/290] 
 - **291-[SF]-KC - AWS CloudTrail** [🔗][KC/291]  
 - **292-[SF]-KC - AWS Config** [🔗][KC/292]  
- - **293-[SF]-KC - Ciclo de vida da segurança: Resposta**  
-- **294-[SF]-KC - Ciclo de vida da segurança: Análise**  
- - **295-[SF]-KC - Trusted Advisor** [🔗][KC/295]  
+- **293-[SF]-KC - Ciclo de vida da segurança: Resposta**  [🔗][KC/293] 
+- **294-[SF]-KC - Ciclo de vida da segurança: Análise**  [🔗][KC/294] 
+- **295-[SF]-KC - Trusted Advisor** [🔗][KC/295]  
 - **296-[SF]-KC - Práticas recomendadas de segurança para a criação de conta** [🔗][KC/296]  
 - **297-[SF]-KC - Programa de conformidade de segurança da AWS** [🔗][KC/297]  
 - **298-[SF]-KC - Recursos de segurança da AWS** [🔗][KC/298]  
@@ -62,4 +62,9 @@ cada módulo e sendo obrigatórios para a finalização do programa.
 [KC/298]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/298.md 
 [KC/285]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/285.md
 [KC/286]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/286.md
+[KC/287]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/287.md
+[KC/289]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/289.md
+[KC/290]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/290.md
+[KC/293]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/293.md
+[KC/294]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/294.md
 ---
