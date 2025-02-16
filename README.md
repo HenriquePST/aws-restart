@@ -32,9 +32,8 @@ cada módulo e sendo obrigatórios para a finalização do programa.
 ```
 ## Introdução à segurança
 
-- **282-[SF]-KC - Introdução à segurança** [🔗][KC/282]  
-[KC/282]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/282.md
+- **282-[SF]-KC - Introdução à segurança** [🔗][KC/282]
 
-  
+[KC/282]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/282.md
  
 ---
