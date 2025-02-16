@@ -4,9 +4,6 @@
 Os Knowledge Checks (KCs) são exercícios de perguntas e respostas disponibilizados aos participantes do AWS Re/Start.
 cada módulo e sendo obrigatórios para a finalização do programa.
 
-## Introdução ao Cloud Foundation
-Sim, é possível! Podemos usar **atalhos de referência** no Markdown para que o link fique "escondido" dentro do texto, sem aparecer o `http...`. Aqui está como você pode fazer:
-
 ---
 
 - **10-[CF]-KC - Introdução ao Amazon S3** [🔗][KC/10]  
