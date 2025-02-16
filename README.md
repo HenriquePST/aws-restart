@@ -36,6 +36,7 @@ cada módulo e sendo obrigatórios para a finalização do programa.
 - **283-[SF]-KC - Ciclo de vida da segurança: Prevenção** [🔗][KC/283]  
 - **284-[SF]-KC - Reforço da rede** [🔗][KC/284]  
 - **285-[SF]-KC - Reforço dos sistemas**  [🔗][KC/285] 
+- **286-[SF]-KC - Prevenção: Segurança de dados** [🔗][KC/286] 
 - **288-[SF]-KC - Prevenção: Gerenciamento de identidades** [🔗][KC/288]  
 - **291-[SF]-KC - AWS CloudTrail** [🔗][KC/291]  
 - **292-[SF]-KC - AWS Config** [🔗][KC/292]  
@@ -55,4 +56,5 @@ cada módulo e sendo obrigatórios para a finalização do programa.
 [KC/297]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/297.md
 [KC/298]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/298.md 
 [KC/285]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/285.md
+[KC/286]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/286.md
 ---
