@@ -29,7 +29,7 @@ cada módulo e sendo obrigatórios para a finalização do programa.
 [KC/12]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/012.md
 [KC/208]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/208.md
 [KC/209]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/209.md
-```
+
 ## Introdução à segurança
 
 - **282-[SF]-KC - Introdução à segurança** [🔗][KC/282]
