@@ -4,7 +4,9 @@
 Os Knowledge Checks (KCs) são exercícios de perguntas e respostas disponibilizados aos participantes do AWS Re/Start.
 cada módulo e sendo obrigatórios para a finalização do programa.
 
+
 ---
+## Introdução ao Cloud Foundation
 
 - **10-[CF]-KC - Introdução ao Amazon S3** [🔗][KC/10]  
 - **2-[CF]-KC - Introdução à computação em nuvem** [🔗][KC/2]  
@@ -28,5 +30,10 @@ cada módulo e sendo obrigatórios para a finalização do programa.
 [KC/208]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/208.md
 [KC/209]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/209.md
 ```
+## Introdução à segurança
 
+- **282-[SF]-KC - Introdução à segurança**  
+
+  
+ 
 ---
