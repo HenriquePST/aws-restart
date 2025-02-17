@@ -83,3 +83,25 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 - **259-NF -KC - TCP e UDP** [🔗 259][KC/259]  
 - **260-NF-KC - Tecnologias de rede adicionais** [🔗 260][KC/260]
 
+
+
+ ## 🚧🚧🚧 Linux  🚧🚧🚧
+ 
+- **226-LX-KC - Uma introdução ao Linux** [🔗 226][KC/226]  
+- **228-LX-KC - Linha de comando do Linux** [🔗 228][KC/228]  
+- **230-LX-KC - Usuários e grupos** [🔗 230][KC/230]  
+- **232-LX-KC - Editar arquivos** [🔗 232][KC/232]  
+- **234-LX-KC - Trabalhar com o sistema de arquivos** [🔗 234][KC/234]  
+- **236-LX-KC - Trabalhar com arquivos** [🔗 236][KC/236]  
+- **238-LX-KC - Gerenciar permissões de arquivo** [🔗 238][KC/238]  
+- **240-LX-KC - Gerenciar processos** [🔗 240][KC/240]  
+- **242-LX-KC - Gerenciar serviços** [🔗 242][KC/242]  
+- **244-LX-KC - Gerenciamento de software** [🔗 244][KC/244]  
+- **246-LX-KC - Gerenciar arquivos de log** [🔗 246][KC/246]  
+- **248-LX-KC - Trabalhar com comandos** [🔗 248][KC/248]  
+- **250-LX-KC - O Shell Bash** [🔗 250][KC/250]  
+- **252-LX-KC - Scripts de shell do Bash** [🔗 252][KC/252]
+
+
+
+
