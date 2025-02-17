@@ -102,6 +102,20 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 - **250-LX-KC - O Shell Bash** [🔗 250][KC/250]  
 - **252-LX-KC - Scripts de shell do Bash** [🔗 252][KC/252]
 
+ 
+ ## 🚧🚧🚧  Programação Python ( Em construção ) 🚧🚧🚧
+
+- **117-PF-KC - Introdução à Programação** [🔗 117][KC/117]  
+- **119-PF-KC - Introdução ao Python** [🔗 119][KC/119]  
+- **121-PF-KC - Fundamentos do Python** [🔗 121][KC/121]  
+- **123-PF-KC - Controle de fluxo** [🔗 123][KC/123]  
+- **125-PF-KC - Funções** [🔗 125][KC/125]  
+- **127-PF-KC - Módulos e Bibliotecas** [🔗 127][KC/127]  
+- **223-PF-KC - Python para administração do sistema** [🔗 223][KC/223]  
+- **131-PF-KC - Depuração e teste** [🔗 131][KC/131]  
+- **137-PF-KC - DevOps e integração contínua** [🔗 137][KC/137]  
+- **138-PF-KC - Gerenciamento de configuração** [🔗 138][KC/138]
+
 
 
 
