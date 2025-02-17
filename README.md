@@ -85,7 +85,7 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 
 
 
- ## 🚧🚧🚧 Linux  🚧🚧🚧
+ ## 🚧🚧🚧 Linux  Extra ( Em construção ) 🚧🚧🚧
  
 - **226-LX-KC - Uma introdução ao Linux** [🔗 226][KC/226]  
 - **228-LX-KC - Linha de comando do Linux** [🔗 228][KC/228]  
