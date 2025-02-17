@@ -1,8 +1,10 @@
 # AWS re/Start - Resolvendo KCs
 
 
-Os Knowledge Checks (KCs) são exercícios de perguntas e respostas disponibilizados aos participantes do AWS Re/Start.
-cada módulo e sendo obrigatórios para a finalização do programa.
+Os **Knowledge Checks (KCs)** são exercícios compostos por perguntas e respostas que são disponibilizados aos participantes do **AWS Re/Start**. Cada módulo do programa inclui esses KCs, que são obrigatórios para a conclusão e certificação do programa.
+
+Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicações detalhadas sobre as respostas corretas, ajudando a entender os conceitos e a se preparar para a aprovação  **AWS Practitioner**.
+
 
 
 ---
