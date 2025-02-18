@@ -91,7 +91,23 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 - **259-NF -KC - TCP e UDP** [🔗 259][KC/259]  
 - **260-NF-KC - Tecnologias de rede adicionais** [🔗 260][KC/260]
 
+---
 
+## Banco de Dados 
+
+- **299-DF-KC** - Introdução aos bancos de dados [🔗 299][KC/299]  
+- **300-DF-KC** - Interação com dados e transação de banco de dados [🔗 300][KC/300]  
+- **301-[DF]-KC** - Criar tabelas e conhecer os tipos diferentes de dados [🔗 301][KC/301]  
+- **302-[DF]-KC** - Inserir dados [🔗 302][KC/302]  
+- **303-DF-KC** - Selecionando Dados de um Banco de Dados [🔗 303][KC/303]  
+- **304-DF-KC** - Realizar uma pesquisa condicional [🔗 304][KC/304]  
+- **305-DF-KC** - Trabalhar com funções [🔗 305][KC/305]  
+- **306-DF-KC** - Organizar dados [🔗 306][KC/306]  
+- **307-DF-KC** - Recuperar dados [🔗 307][KC/307]  
+- **308-DF-KC** - Amazon RDS [🔗 308][KC/308]  
+- **309-DF-KC** - Amazon DynamoDB [🔗 309][KC/309]  
+
+---
 
  ## 🚧🚧🚧 Linux  Extra ( Em construção ) 🚧🚧🚧
  
