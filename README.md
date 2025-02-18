@@ -75,7 +75,7 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 
 ## 🚧🚧🚧  Introdução à rede ( Em construção ) 🚧🚧🚧
 
-- **254-NF- KC Introdução à rede** [🔗 254] [KC/254]  
+- **254-NF- KC Introdução à rede** [🔗][KC/254]  
 - **255-NF- KC Conceitos de rede** [🔗 255][KC/255]  
 - **256-NF -KC Protocolo de Internet (IP)** [🔗 256][KC/256]  
 - **257-NF-KC - Amazon VPC** [🔗 257][KC/257]  
