@@ -71,9 +71,17 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 [KC/290]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/290.md
 [KC/293]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/293.md
 [KC/294]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/294.md
+
+[KC/255]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/255.md
+[KC/256]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/256.md
+[KC/257]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/257.md
+[KC/258]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/258.md
+[KC/259]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/259.md
+[KC/260]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/260.md
+
 ---
 
-## 🚧🚧🚧  Introdução à rede ( Em construção ) 🚧🚧🚧
+##  Introdução à rede 
 
 - **254-NF- KC Introdução à rede** [🔗 /254][KC/254]  
 - **255-NF- KC Conceitos de rede** [🔗 255][KC/255]  
@@ -83,7 +91,23 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 - **259-NF -KC - TCP e UDP** [🔗 259][KC/259]  
 - **260-NF-KC - Tecnologias de rede adicionais** [🔗 260][KC/260]
 
+---
 
+## Banco de Dados 
+
+- **299-DF-KC** - Introdução aos bancos de dados [🔗 299][KC/299]  
+- **300-DF-KC** - Interação com dados e transação de banco de dados [🔗 300][KC/300]  
+- **301-[DF]-KC** - Criar tabelas e conhecer os tipos diferentes de dados [🔗 301][KC/301]  
+- **302-[DF]-KC** - Inserir dados [🔗 302][KC/302]  
+- **303-DF-KC** - Selecionando Dados de um Banco de Dados [🔗 303][KC/303]  
+- **304-DF-KC** - Realizar uma pesquisa condicional [🔗 304][KC/304]  
+- **305-DF-KC** - Trabalhar com funções [🔗 305][KC/305]  
+- **306-DF-KC** - Organizar dados [🔗 306][KC/306]  
+- **307-DF-KC** - Recuperar dados [🔗 307][KC/307]  
+- **308-DF-KC** - Amazon RDS [🔗 308][KC/308]  
+- **309-DF-KC** - Amazon DynamoDB [🔗 309][KC/309]  
+
+---
 
  ## 🚧🚧🚧 Linux  Extra ( Em construção ) 🚧🚧🚧
  
