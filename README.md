@@ -78,6 +78,7 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 [KC/258]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/258.md
 [KC/259]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/259.md
 [KC/260]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/260.md
+[KC/299]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/299.md
 
 ---
 
