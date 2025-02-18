@@ -53,7 +53,7 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 - **297-[SF]-KC - Programa de conformidade de segurança da AWS** [🔗 297][KC/297]  
 - **298-[SF]-KC - Recursos de segurança da AWS** [🔗 298][KC/298]
 
-
+[KC/254]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/254.md
 [KC/282]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/282.md
 [KC/283]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/283.md
 [KC/284]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/284.md
@@ -75,7 +75,7 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 
 ## 🚧🚧🚧  Introdução à rede ( Em construção ) 🚧🚧🚧
 
-- **254-NF- KC Introdução à rede** [🔗 254][KC/254]  
+- **254-NF- KC Introdução à rede** [🔗 254] [KC/254]  
 - **255-NF- KC Conceitos de rede** [🔗 255][KC/255]  
 - **256-NF -KC Protocolo de Internet (IP)** [🔗 256][KC/256]  
 - **257-NF-KC - Amazon VPC** [🔗 257][KC/257]  
