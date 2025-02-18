@@ -71,9 +71,17 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 [KC/290]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/290.md
 [KC/293]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/293.md
 [KC/294]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/294.md
+
+[KC/255]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/255.md
+[KC/256]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/256.md
+[KC/257]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/257.md
+[KC/258]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/258.md
+[KC/259]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/259.md
+[KC/260]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/260.md
+
 ---
 
-## 🚧🚧🚧  Introdução à rede ( Em construção ) 🚧🚧🚧
+##  Introdução à rede 
 
 - **254-NF- KC Introdução à rede** [🔗 /254][KC/254]  
 - **255-NF- KC Conceitos de rede** [🔗 255][KC/255]  
