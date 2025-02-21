@@ -32,6 +32,7 @@ Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicaçõ
 [KC/12]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/012.md
 [KC/208]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/208.md
 [KC/209]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/209.md
+[KC/301]: https://github.com/HenriquePST/aws-restart/blob/main/KCs/301.md
 
 ## Introdução à segurança
 
