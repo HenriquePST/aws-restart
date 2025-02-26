@@ -1,0 +1,40 @@
+
+
+## **Banco de Dados Relacionais**  
+
+- Funcionam como tabelas do Excel, onde os dados são estruturados em linhas e colunas.  
+- Possuem um vínculo lógico entre as tabelas por meio de chaves primárias e estrangeiras (**Primary Key** e **Foreign Key**).  que por sua vez esse relacionamento é chamado JOINs
+
+
+## **Banco de Dados Não Relacionais (NoSQL)**  
+
+- Projetados para escalabilidade horizontal (**Scale Out/In**).  
+- Possuem flexibilidade no modelo de dados (não precisam seguir um esquema rígido).  
+- Otimizados para leitura/escrita de grandes volumes de dados.  
+- Ideais para sistemas que exigem processamento em tempo real, como **redes sociais** e **sistemas de recomendação** (ex.: aplicativos de lojas online e pedidos de comida).  
+- Maior complexidade na modelagem.  
+- Geralmente **não seguem ACID** (Atomicidade, Consistência, Isolamento e Durabilidade), focando em desempenho e escalabilidade.  
+
+--- 
+
+Quando Usar NoSQL?
+✅ Grandes volumes de dados que crescem rapidamente.
+✅ Processamento em tempo real, como redes sociais e recomendação de produtos.
+✅ Escalabilidade horizontal, garantindo alto desempenho.
+
+Quando Usa SQL ?
+
+✅ Dados altamente estruturados e organizados 
+✅ Garantia de integridade e consistência dos dados (ACID)
+✅ Relacionamentos complexos entre dados 
+✅ Consultas complexas e relatórios detalhados 
+✅ Controle rigoroso de acesso e segurança 
+✅ Sistemas tradicionais que não exigem escalabilidade massiva 
+
+
+Diferentes tipos de NoSQL 
+
+Amazon DynamoBD : chave - valor 
+Amazon DocumentD ( compatível com Mongo DB ) : Documentos 
+Amazon Keyspaces ( compative om Cassandra : Colunas 
+Amazon Neptune : Grafos 

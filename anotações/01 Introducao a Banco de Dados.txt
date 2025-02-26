@@ -1,0 +1,21 @@
+Banco de Dados  Podemos classificá-los em:
+
+Bancos Relacionais: Estruturados com tabelas e relacionamentos (SQL).
+Bancos Não Relacionais: Baseados em documentos, chaves-valor, grafos ou colunas (NoSQL).
+
+
+S3: Excelente para armazenar grandes volumes de dados, mas pode ter desafios de desempenho.
+EC2: Fácil de consumir, mas sua escalabilidade não é tão simples, especialmente em grandes operações.
+
+Exemplo: Gerenciar 50 instâncias de banco de dados no EC2 pode ser desafiador para garantir integridade e desempenho.
+
+Principais Considerações
+Organização: Estruturação eficiente dos dados.
+Integridade: Garantia de consistência e confiabilidade.
+Segurança: Controle de acesso e proteção contra ameaças.
+Escalabilidade: Expansão vertical e horizontal conforme necessário.
+Facilidade de Consumo: Acessibilidade e performance para consultas.
+Colaboratividade: Compartilhamento eficiente entre usuários e sistemas.
+Interoperabilidade: Capacidade de integração com diferentes tecnologias.
+
+Existem diferentes tipos de banco de dados, cada um otimizado para situações específicas.
