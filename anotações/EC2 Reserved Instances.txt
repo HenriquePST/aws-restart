@@ -1,0 +1,10 @@
+EC2: Reserved Instances
+ 
+As instâncias reservadas permitem reservar capacidade computacional antecipadamente, oferecendo descontos significativos em comparação com as instâncias On-Demand. Elas são ideais para aplicações com cargas de trabalho estáveis e previsíveis, garantindo economia a longo prazo.  
+
+
+-Até 70% de desconto em relação às instâncias On-Demand. Upfront Total e Upfront Parcial estão disponíveis.**
+-Se você se arrepender da contratação de uma instância reservada, pode vendê-la no Reserved Instances Marketplace. Além disso, você também pode comprar outras instâncias reservadas disponíveis no marketplace.**
+-As instâncias reservadas são necessariamente atreladas à uma região e a uma AZ.**
+-As Convertible Reserved Instances permitem alterar o OS, o tipo de instância e a família de instâncias conforme necessário. Adicionar tal flexibilidade reduz o desconto provido na reserva da instância.**
+
