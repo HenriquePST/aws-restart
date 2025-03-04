@@ -1,0 +1,13 @@
+Instance Store 
+
+**Instance Store**
+
+Fornece armazenamento temporário de alta performance diretamente anexado à instância EC2.
+
+- IOPS cerca de 100x mais rápido que um EBS.
+- São efêmeros - os dados do Instance Store são perdidos quando a instância é desligada.
+- É possível criar backups e réplicas.
+- Ideal para armazenamento temporário, cache e dados de aplicativos que podem ser reconstruídos.
+
+Obs.: Ao desligar uma instância EC2, todos os dados armazenados no Instance Store são perdidos. Para evitar a perda de informação, recomenda-se criar um snapshot e armazená-lo no S3. Essa estratégia garante que seus dados importantes estejam protegidos e acessíveis mesmo após o desligamento da instância.
+
