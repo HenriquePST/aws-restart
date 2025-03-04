@@ -1,0 +1,17 @@
+EC2: Saving Plans
+
+Os Saving Plans oferecem descontos significativos em troca de um compromisso de uso de instâncias EC2 por um período de um ou três anos. Esses planos proporcionam flexibilidade para mudar o tamanho das instâncias e os sistemas operacionais. Recentemente, a AWS ampliou a flexibilidade dos Savings Plans, possibilitando também a mudança das Regiões e AZs.
+
+- Como existe tanta flexibilidade em relação aos recursos, a reserva é feita em relação ao CUSTO e não aos recursos;
+- Recursos excedentes aos reservados são cobrados como On-Demand.
+
+Famílias e regiões podem ser alteradas.
+
+ - O uso reservado não precisa ser uniformemente distribuído ao longo dos meses.**
+
+(V) -t3.micro us-east-1a → t3.2xlarge us-east-1b
+- c4.4xlarge us-east-1a → m5.xlarge us-west-1a
+
+(X) -Cancelar/Reduzir o valor do Saving Plan. Savings Plans não fornecem Reserva de Capacidade.**
+
+
