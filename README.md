@@ -2,6 +2,7 @@ Os **Knowledge Checks (KCs)** são exercícios compostos por perguntas e respost
 
 Neste Repositorio além dos **KCs**, cada pergunta é acompanhada de explicações detalhadas sobre as respostas corretas, ajudando a entender os conceitos e a se preparar para a aprovação  **AWS Practitioner**.
 
+[ Knowledge Checks (KCs)](https://github.com/HenriquePST/aws-restart-cloud-practitioner-/blob/main/KCs/-%20%20SUMARIO%20KCS%20.md).
 
 
 # AWS Certified Cloud Practitioner
