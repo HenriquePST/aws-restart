@@ -1,8 +1,0 @@
-## O IAM (Identity and Access Management) é um serviço global da AWS que permite gerenciar identidades e permissões de acesso 
-aos recursos da nuvem.
-
-Serviço Global: O IAM não está vinculado a uma região específica; as configurações são aplicadas globalmente.
-Conta Root: É a conta principal criada ao configurar a AWS. Possui permissões totais e deve ser protegida, evitando seu uso diário.
-Usuários: Representam identidades individuais com credenciais próprias, podendo ter permissões específicas.
-Grupos: Conjuntos de usuários que compartilham permissões comuns, facilitando o gerenciamento de acessos.
-Permissões: Definidas por políticas, determinam quais ações um usuário ou grupo pode realizar nos serviços da AWS.

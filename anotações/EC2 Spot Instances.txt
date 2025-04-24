@@ -1,8 +1,0 @@
-EC2: Spot Instances
-
-As instâncias spot são recursos de computação disponíveis a preços variáveis, geralmente inferiores aos das instâncias sob demanda, permitindo economias significativas. Elas são ideais para cargas de trabalho flexíveis e tolerantes a interrupções.
-
-- Até 90% de redução de custo em relação às instâncias On-Demand.
-- Spots não são recomendadas para cargas de trabalho críticas devido à possibilidade de interrupções. Ex: Banco de Dados, sites e afins.
-- Ao contratar instâncias Spot, você participa de um leilão de preços, podendo perder o acesso às instâncias caso o preço ultrapasse sua oferta.
-- São ideais para processamento distribuído, batch jobs e geração de relatórios.
